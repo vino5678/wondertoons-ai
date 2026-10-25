@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+*.log
+data/projects/
+data/*.db
+*.mp4
+*.mov
+*.wav
+*.mp3
